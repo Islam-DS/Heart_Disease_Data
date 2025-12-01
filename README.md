@@ -1,7 +1,6 @@
 # Heart Disease Detection
 
-This project uses classical machine learning to predict the presence of heart disease from clinical measurements in the popular UCI heart-disease dataset (303 patients, 13 features + target). [web:62]
-
+This project uses classical machine learning to predict the presence of heart disease from clinical measurements in the popular UCI heart-disease dataset (303 patients, 13 features + target).
 ## Dataset
 
 - File: `heart disease.csv`
